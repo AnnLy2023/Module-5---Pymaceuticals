@@ -42,11 +42,15 @@ Bar charts
 
 Pandas Df.plot () method
 
-![image](https://github.com/AnnLy2023/Module-5---Pymaceuticals/assets/129100456/1297baea-dd0a-4a9c-a0bd-e296f2cc0e1a)
+![image](https://github.com/AnnLy2023/Module-5---Pymaceuticals/assets/129100456/270569ac-b622-4a44-b8d6-9df88d5eea88)
+
 
 
 Matplotlib's pyplot method
-![image](https://github.com/AnnLy2023/Module-5---Pymaceuticals/assets/129100456/c5801660-a062-482b-83c1-c4de5a3040d0)
+
+
+![image](https://github.com/AnnLy2023/Module-5---Pymaceuticals/assets/129100456/7db778a6-b985-4ef3-bc80-cd6507e62ff8)
+
 
 Pie Charts
 
@@ -99,7 +103,7 @@ Plot the linear regression model on top of the previous scatter plot.
 
 
 
-6. Data Analysis 
+
 
 
 
