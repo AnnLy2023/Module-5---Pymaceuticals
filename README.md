@@ -41,15 +41,10 @@ Create the second pie chart with Matplotlib's pyplot methods.
 Bar charts
 
 Pandas Df.plot () method
-
-![image](https://github.com/AnnLy2023/Module-5---Pymaceuticals/assets/129100456/270569ac-b622-4a44-b8d6-9df88d5eea88)
-
-
+![image](https://github.com/AnnLy2023/Module-5---Pymaceuticals/assets/129100456/16444ffc-4785-4472-9e1d-7ef6bdac3331)
 
 Matplotlib's pyplot method
-
-
-![image](https://github.com/AnnLy2023/Module-5---Pymaceuticals/assets/129100456/7db778a6-b985-4ef3-bc80-cd6507e62ff8)
+![image](https://github.com/AnnLy2023/Module-5---Pymaceuticals/assets/129100456/332fbe2a-af11-4788-a0c3-0d982c06212e)
 
 
 Pie Charts
